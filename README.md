@@ -1,6 +1,6 @@
 - 👋 Olá, meu nome é Bruno Nasser
 - 👀 Sou professor do Colégio Arlindo Carvalho de Amorim
-- 🌱 Leciono a disciplina de Pensamento Compútacional, Lógica e Programação
+- 🌱 Leciono a disciplina de Pensamento Computacional, Lógica e Programação
 - 💞️ A intenção é colaborar e orientar aos meus alunos no entendimento e execução da programação de forma geral
 
 <!---
